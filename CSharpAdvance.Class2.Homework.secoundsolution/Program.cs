@@ -22,6 +22,8 @@ namespace CSharpAdvance.Class2.Homework.Secoundsolution
             Console.WriteLine(nikola.PrintUser());
             Console.WriteLine(trajan.PrintUser());
 
+
+
             Console.ReadLine();
         }
 
